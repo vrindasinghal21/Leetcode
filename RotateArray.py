@@ -18,3 +18,8 @@ class Solution:
             temp[next_%n] = t
         for i in range(min(n,k)):
             arr[i] = temp[i]
+            
+#a = Solution()
+def add(a,b):
+    x = a+b
+    return x
